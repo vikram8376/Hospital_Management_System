@@ -1,0 +1,53 @@
+/* .icon{
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s;
+    margin-top: 10px;
+} */
+
+.icons-box{
+    display: flex;
+    margin-top: 50px;
+}
+
+.title{
+    margin-left: 50px !important;
+    font-weight: 700 !important;
+    margin-bottom: 10px !important;
+    font-size: 18px !important;
+} 
+
+.discription{
+    margin-left: 50px !important;
+    line-height: 24px;
+    font-size: 14px;
+}
+
+.count-box{
+    padding: 30px 30px 25px 30px;
+    width: 100%;
+    position: relative;
+    text-align: center;
+    background: #fff;
+}
+
+#counts{
+    background: #f1f7fd;
+    padding: 70px 0 60px;
+}
+
+#footersction{
+    background-color:rgb(6, 72, 130);
+    padding: 20px;
+    margin-top: 40px;
+}
+
+.social-media{
+    margin-left: 550px;
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+#lastsection{
+    background-color: rgb(183, 186, 188);
+}
