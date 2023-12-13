@@ -15,6 +15,6 @@ Technologies Used
 
 Getting Started
         Follow these steps to set up and run the system locally:
-        Clone the Repository: git clone <repository_URL>
+        Clone the Repository: git clone <[repository_URL](https://github.com/vikram8376/Hospital_Management_system.git)>
         Install Dependencies: npm install 
         Run the Application: npm start 
